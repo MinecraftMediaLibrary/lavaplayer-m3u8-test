@@ -67,7 +67,7 @@ public final class MediaBot {
 
   public static void main(final String[] args) throws LoginException, InterruptedException {
     new MediaBot(
-        "OTg2MjUzNDcxOTU3Mjg2OTQy.GByYpc.055Rv-y8GdHOjDQkiIGUMiHajSC8YfFr4Y-3CM",
+        "",
         "817501569108017223",
         "817501569108017227");
   }
